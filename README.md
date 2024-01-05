@@ -1,7 +1,7 @@
+"Hello World"! 
+
 # Portfólio - marcus.azevedo
 
-Portfólio: criado em: 01/01/2024.
+Portfólio: create in: 01/01/2024.
 
-Meu primeiro repositório para meus projetos Front-End, e estudos.
-
-teste adicionando linhas diretamente no repositório. 
+repositório para projetos Front-End, e estudos.
