@@ -58,3 +58,7 @@ img {
 * {
   font-size: 50px;
 }
+
+body {
+  background-image: linear-gradient(to left bottom, #fb0505, #bf0024, #800627, #41101d, #000000);
+}
